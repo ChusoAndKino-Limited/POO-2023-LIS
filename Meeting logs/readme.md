@@ -1,4 +1,4 @@
-# How to Write a Meting Log
+# How to Write a Meeting Log
 
 ## Use the naming convention: <br>
 `meeting-log-##_mm.dd.2023.md`
