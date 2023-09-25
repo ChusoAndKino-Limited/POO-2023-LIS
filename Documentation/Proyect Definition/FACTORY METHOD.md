@@ -22,6 +22,18 @@ The Spring container uses Factory Methods to efficiently create and configure ob
   <img src="https://programaenlinea.net/wp-content/uploads/2019/11/spring-framework.png" width="500px"/> 
 </div>
 
+
+BeansFactory interface is an example the simplest container providing an advanced configuration mechanism to instantiate, configure and manage the life cycle of beans. Beans are java objects that are configured at run-time by Spring IoC Container. BeanFactory represents a basic IoC container which is a parent interface of ApplicationContext.
+
+Example Map BeanFactoty: 
+
+
+<div id="imgBFM" align="center">
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210702121645/m3.png" width="700px"/> 
+</div>
+
+
+
 Upload by: [Carlos Ruz](https://github.com/XxCharlyRuzxX)
 
 
