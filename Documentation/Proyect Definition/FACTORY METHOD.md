@@ -14,8 +14,13 @@ The Factory Method pattern is useful when you have a base class that needs to de
 </div>
 <br>
  
-An example of the application of this pattern can be seen in Content Management Systems (CMS) platforms like WordPress, where they can use the Factory Method pattern to efficiently create and manage different types of content, such as blog posts, pages, and widgets.
+An example of a framework that uses this pattern is the Spring Framework. Spring employs the Factory Method pattern in various parts of its code to create and manage application beans (beans are application objects managed by the Spring container. These beans represent application components such as services, controllers, repositories, etc.). 
 
+The Spring container uses Factory Methods to efficiently create and configure objects.The use of the Factory Method pattern in Spring provides advantages such as centralized bean configuration, dependency management, and flexibility to change bean implementations without modifying the application's source code.
+
+<div id="imgSF" align="center">
+  <img src="https://programaenlinea.net/wp-content/uploads/2019/11/spring-framework.png" width="500px"/> 
+</div>
 
 Upload by: [Carlos Ruz](https://github.com/XxCharlyRuzxX)
 
