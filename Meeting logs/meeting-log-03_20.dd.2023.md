@@ -1,4 +1,4 @@
-# meeting-log-03_20.dd.2023.md
+# Meeting Log #3
 
 September 20th, 2023
 
