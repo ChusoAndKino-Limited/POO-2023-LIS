@@ -10,7 +10,7 @@ To provide a tool that exemplifies software design patterns with real-life imple
 -   User-Friendly and Intuitive User Interface
 -   Patterns with Real-Life Implementations
 -  Explained Code Examples
-- 
+  
 ### Limitations
 
 -   Tool without Direct User Interaction
