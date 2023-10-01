@@ -1,4 +1,4 @@
-# _**Prioritazion of rquirements**_
+# _**Prioritazion of requirements**_
 
 <hr>
 
