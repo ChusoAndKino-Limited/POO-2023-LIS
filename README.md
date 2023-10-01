@@ -39,33 +39,32 @@ This will download all dependencies of the project, such as Husky in order to va
 
 ### Product
 
-- [Product description](https://github.com/ChusoAndKino-Limited/POO-2023-LIS/blob/84324e8211656161411d57451cc8e0a5db90a425/Documentation/Product/Product_description.md)
-- [Value proposition](https://github.com/ChusoAndKino-Limited/POO-2023-LIS/blob/84324e8211656161411d57451cc8e0a5db90a425/Documentation/Product/Value_Proposition.md#value-proposition)
+- [Product description](Documentation/Product/Product_description.md)
+- [Value proposition](Documentation/Product/Value_Proposition.md)
 
 ### Requirements
 
-- [Requirements (functional and non-functional)](https://github.com/ChusoAndKino-Limited/POO-2023-LIS/blob/7709c35a4c5ccb6c6b9a297489b14bfb13f07dec/Documentation/Design/Requirements.md)
-- [Priorization](https://github.com/ChusoAndKino-Limited/POO-2023-LIS/blob/7709c35a4c5ccb6c6b9a297489b14bfb13f07dec/Documentation/Design/prioritazion.md)
+- [Requirements (functional and non-functional)](Documentation/Design/Requirements.md)
+- [Priorization](Documentation/Design/prioritazion.md)
 - Artifacts
     
-    - [Use cases diagram](https://github.com/ChusoAndKino-Limited/POO-2023-LIS/blob/84324e8211656161411d57451cc8e0a5db90a425/Documentation/Design/Use%20Cases%20Diagram.png)
-    - [User stories](https://github.com/ChusoAndKino-Limited/POO-2023-LIS/blob/84324e8211656161411d57451cc8e0a5db90a425/Documentation/Design/User%20stories.md)
-    - [Class diagram](https://github.com/ChusoAndKino-Limited/POO-2023-LIS/blob/84324e8211656161411d57451cc8e0a5db90a425/Documentation/Design/classDiagram.md)
-
-### [Abstraction process](https://github.com/ChusoAndKino-Limited/POO-2023-LIS/blob/84324e8211656161411d57451cc8e0a5db90a425/Documentation/Design/classes.md)
+    - [Use cases diagram](Documentation/Design/Use_Cases_Diagram.png)
+    - [User stories](Documentation/Design/User_stories.md)
+    - [Class diagram](Documentation/Design/classDiagram.md)
+### [Abstraction process](Documentation/Design/classes.md)
 
 ### Process
 
-- [Process description](https://github.com/ChusoAndKino-Limited/POO-2023-LIS/blob/84324e8211656161411d57451cc8e0a5db90a425/Documentation/Process/Process%20Description.md)
-- [Process management](https://github.com/ChusoAndKino-Limited/POO-2023-LIS/blob/84324e8211656161411d57451cc8e0a5db90a425/Documentation/Process/Process%20Management.md)
-- [Individual Contribution Metric](https://github.com/ChusoAndKino-Limited/POO-2023-LIS/blob/7709c35a4c5ccb6c6b9a297489b14bfb13f07dec/Documentation/Process/Individual%20Contribution%20Metric.md)
+- [Process description](Documentation/Process/Process_Description.md)
+- [Process management](Documentation/Process/Process_Management.md)
+- [Individual Contribution Metric](Documentation/Process/IndividualContributionMetric.md)
 
 
 ### Preview Presentation
     
 - [Video](https://youtu.be/1Cm66H1yLIY)
-- [Slides](https://github.com/ChusoAndKino-Limited/POO-2023-LIS/blob/7709c35a4c5ccb6c6b9a297489b14bfb13f07dec/Documentation/Process/Slides.pdf)
+- [Slides](Documentation/Process/Slides.pdf)
 
-### [Competencies](https://github.com/ChusoAndKino-Limited/POO-2023-LIS/blob/84324e8211656161411d57451cc8e0a5db90a425/Documentation/Competencies/Competencies.md)
+### [Competencies](Documentation/Competencies/Competencies.md)
 
 
