@@ -44,8 +44,8 @@ This will download all dependencies of the project, such as Husky in order to va
 
 ### Requirements
 
-- [Requirements (functional and non-functional)]()
-- [Priorization]()
+- [Requirements (functional and non-functional)](https://github.com/ChusoAndKino-Limited/POO-2023-LIS/blob/7709c35a4c5ccb6c6b9a297489b14bfb13f07dec/Documentation/Design/Requirements.md)
+- [Priorization](https://github.com/ChusoAndKino-Limited/POO-2023-LIS/blob/7709c35a4c5ccb6c6b9a297489b14bfb13f07dec/Documentation/Design/prioritazion.md)
 - Artifacts
     
     - [Use cases diagram](https://github.com/ChusoAndKino-Limited/POO-2023-LIS/blob/84324e8211656161411d57451cc8e0a5db90a425/Documentation/Design/Use%20Cases%20Diagram.png)
@@ -58,13 +58,13 @@ This will download all dependencies of the project, such as Husky in order to va
 
 - [Process description](https://github.com/ChusoAndKino-Limited/POO-2023-LIS/blob/84324e8211656161411d57451cc8e0a5db90a425/Documentation/Process/Process%20Description.md)
 - [Process management](https://github.com/ChusoAndKino-Limited/POO-2023-LIS/blob/84324e8211656161411d57451cc8e0a5db90a425/Documentation/Process/Process%20Management.md)
-- [Individual Contribution Metric]()
+- [Individual Contribution Metric](https://github.com/ChusoAndKino-Limited/POO-2023-LIS/blob/7709c35a4c5ccb6c6b9a297489b14bfb13f07dec/Documentation/Process/Individual%20Contribution%20Metric.md)
 
 
 ### Preview Presentation
     
 - [Video](https://youtu.be/1Cm66H1yLIY)
-- [Slides]()
+- [Slides](https://github.com/ChusoAndKino-Limited/POO-2023-LIS/blob/7709c35a4c5ccb6c6b9a297489b14bfb13f07dec/Documentation/Process/Slides.pdf)
 
 ### [Competencies](https://github.com/ChusoAndKino-Limited/POO-2023-LIS/blob/84324e8211656161411d57451cc8e0a5db90a425/Documentation/Competencies/Competencies.md)
 
