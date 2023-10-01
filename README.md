@@ -33,7 +33,7 @@ npm install
 ```
 
 This will download all dependencies of the project, such as Husky in order to validate commits.
-> At this point, Husky and Commitlint are the only dependencies of the project because there is only documentation at the moment and there is no technology selected.}
+> At this point, Husky and Commitlint are the only dependencies of the project because there is only documentation at the moment and there is no technology selected.
 
 ## First Submission
 
