@@ -23,7 +23,7 @@ The design pattern is found in the class: `WeightedRandomWalkIterator`.
 
 This class serves as the iterator and adheres to the `GraphWalkIterator` interface. It represents the iterator used for traversing the graph using weighted random walks.
 
-```java
+```console 
 public class WeightedRandomWalkIterator<V> implements GraphWalkIterator<V> {
     private final IGraph<V,  extends Number> graph;
     private final int walkLength;
@@ -41,7 +41,7 @@ public class WeightedRandomWalkIterator<V> implements GraphWalkIterator<V> {
 ```
 Subsequently, in the `IVertexSequence` class, methods such as `next()` for obtaining the next element and `hasNext()` for verifying if there are more elements to iterate over are included, as specified by the design pattern.
  
-```java
+```console 
  public IVertexSequence<V> next() {
         if (!hasNext())
             throw new NoSuchElementException();

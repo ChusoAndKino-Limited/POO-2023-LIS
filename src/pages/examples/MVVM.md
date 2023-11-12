@@ -36,7 +36,7 @@ The files "HomeViewModel.cs," "MainPageViewModel.cs," and "SettingsViewModel.cs"
 
 Exemplifying with code using the file HomeViewModel.cs:
 
-```cs
+```console 
 using Files.App.ViewModels.Widgets;
 using Microsoft.UI.Xaml;
 using System.Windows.Input;
@@ -84,7 +84,7 @@ The `HomeViewModel` is focused on managing the loading of the main page and prov
 Regarding the view, an example can be found in the **"LayoutModes" folder, in the file BaseLayoutViewModel.cs**. This file contains logic directly related to user interaction and data manipulation in the user interface.
 
 
-```cs
+```console 
 // Copyright (c) 2023 Files Community
 // Licensed under the MIT License. See the LICENSE.
 
