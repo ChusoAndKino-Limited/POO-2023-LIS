@@ -4,13 +4,31 @@ pattern: 'iterator'
 ---
 
 ## Iterator Pattern Example
+    
 
-This example was extracted from **Deeplearning4j (DL4J)** a deep learning and machine learning library developed in Java. It is designed to enable the creation, training, and deployment of artificial neural networks and machine learning models in Java applications. DL4J stands out as one of the few deep learning libraries that integrates well into the Java ecosystem and is suitable for enterprise and production applications.
+An iterator is an object that provides a common interface for traversing elements of a collection. The iterator has methods such as `next()` to retrieve the next element from the collection and `hasNext()` to check if there are still elements to iterate through. The iterator is responsible for keeping track of the current state of the iteration.
+
+The central idea of the Iterator pattern is to extract the traversal behavior of a collection and place it in a separate object called an iterator.
+
+In addition to implementing the traversal algorithm itself, an iterator object encapsulates all the details of the traversal, such as the current position and how many elements are left until the end. Because of this, multiple iterators can traverse the same collection at the same time, independently of each other. Typically, iterators provide a primary method for extracting elements from the collection. The client can continue calling this method until it returns nothing, which means the iterator has traversed all the elements.
+
+**STRUCTURE**
+
+<div align="center">
+<img src="https://refactoring.guru/images/patterns/diagrams/iterator/structure.png?id=35ea851f8f6bbe51d79eb91e6e6519d0" alt="STRUCTURE">
+</div>
+
+
+---
+
+
+The following example example was extracted from **Deeplearning4j (DL4J)** a deep learning and machine learning library developed in Java. It is designed to enable the creation, training, and deployment of artificial neural networks and machine learning models in Java applications. DL4J stands out as one of the few deep learning libraries that integrates well into the Java ecosystem and is suitable for enterprise and production applications.
 
 The design pattern is found in the class: `WeightedRandomWalkIterator`.
 
 This class serves as the iterator and adheres to the `GraphWalkIterator` interface. It represents the iterator used for traversing the graph using weighted random walks.
 
+```java
 ```java
 public class WeightedRandomWalkIterator<V> implements GraphWalkIterator<V> {
     private final IGraph<V,  extends Number> graph;
@@ -29,6 +47,7 @@ public class WeightedRandomWalkIterator<V> implements GraphWalkIterator<V> {
 ```
 Subsequently, in the `IVertexSequence` class, methods such as `next()` for obtaining the next element and `hasNext()` for verifying if there are more elements to iterate over are included, as specified by the design pattern.
  
+```java
 ```java
  public IVertexSequence<V> next() {
         if (!hasNext())
