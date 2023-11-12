@@ -1,3 +1,8 @@
+---
+layout: '../../layouts/Layout.astro'
+patterns: 'factory'
+---
+
 # APPLICATION OF FACTORY METHOD
 The Factory Method pattern, or Factory Method Pattern, is a creational design pattern that provides an interface for creating objects in a superclass but allows subclasses to alter the type of objects that will be created. In other words, this pattern defines an abstract 'factory' that declares a method for creating objects, but the concrete subclasses of the factory are responsible for implementing that method and deciding which specific class of object to create.
 
