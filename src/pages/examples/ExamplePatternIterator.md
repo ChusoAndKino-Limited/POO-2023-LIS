@@ -1,3 +1,8 @@
+---
+layout: '../../layouts/Layout.astro'
+pattern: 'iterator'
+---
+
 ## Iterator Pattern Example
 
 This example was extracted from **Deeplearning4j (DL4J)** a deep learning and machine learning library developed in Java. It is designed to enable the creation, training, and deployment of artificial neural networks and machine learning models in Java applications. DL4J stands out as one of the few deep learning libraries that integrates well into the Java ecosystem and is suitable for enterprise and production applications.
@@ -6,7 +11,7 @@ The design pattern is found in the class: `WeightedRandomWalkIterator`.
 
 This class serves as the iterator and adheres to the `GraphWalkIterator` interface. It represents the iterator used for traversing the graph using weighted random walks.
 
-```console 
+```java
 public class WeightedRandomWalkIterator<V> implements GraphWalkIterator<V> {
     private final IGraph<V,  extends Number> graph;
     private final int walkLength;
@@ -24,7 +29,7 @@ public class WeightedRandomWalkIterator<V> implements GraphWalkIterator<V> {
 ```
 Subsequently, in the `IVertexSequence` class, methods such as `next()` for obtaining the next element and `hasNext()` for verifying if there are more elements to iterate over are included, as specified by the design pattern.
  
-```console 
+```java
  public IVertexSequence<V> next() {
         if (!hasNext())
             throw new NoSuchElementException();
