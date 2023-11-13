@@ -1,27 +1,25 @@
-#Singleton
+# Singleton
 Also known as Single Instance, the Singleton pattern is a creational design pattern that ensures a class has only one instance and provides a global access point to it. Instead of instantiating objects directly with the new operator, a method (the “Singleton Method”) is defined in a class that must be implemented. This class can provide its own implementation of the Singleton Method to create a single instance of the object.
 
 The Singleton is used when you want to ensure that a class has only one instance, and you need to provide a global access point to this instance. This promotes the “Open/Closed” principle, which states that classes should be open for extension but closed for modification. In other words, you can add new methods or properties to the class without having to modify the code that uses the Singleton Method.
 
-#Structure
-<div align="center">
-<img src="https://refactoring.guru/images/patterns/diagrams/singleton/structure-en.png?id=4e4306d3a90f40d74c7a4d2d2506b8ec" alt="STRUCTURE">
-</div>
+## Structure
+
+```mermaid
 classDiagram
-  class Singleton {
-    -static uniqueInstance: Singleton
-    +static getInstance(): Singleton
-    ...
-  }
-    
-  Singleton o-- Singleton : Uses
+Client --> Singleton
+Singleton --|> Singleton
+Singleton : instance singleton
+Singleton : Singleton()
+Singleton : getinstance() singleton
+  ```
 
 1. The Singleton class declares a static method that returns its single instance. This method is called `getInstance`.
 
 2. The Singleton's constructor should be hidden from the client code. Calling the `getInstance` method should be the only way of getting the Singleton object.
 
 
-Real application
+## Real application
 
 The Singleton pattern is implemented in the GCMMultiplayer class in the GameCenterManager framework. This class is responsible for managing multiplayer matches in games that use the Game Center.
 
@@ -37,6 +35,11 @@ The Singleton pattern primarily adheres to the SOLID principle known as the Sing
 Single Responsibility Principle (SRP): The Singleton promotes compliance with the SRP by separating the responsibility of object creation into a specific class (the Singleton) rather than having this responsibility distributed throughout the client code. The class implementing the Singleton has the sole responsibility of creating and managing the single instance of a specific type of object. This facilitates code management and maintenance by focusing each class on a single task.
 
 While the Singleton is not directly related to other SOLID principles, its use can indirectly contribute to other principles such as the Open/Closed Principle (OCP) and the Liskov Substitution Principle (LSP) as it enables the extension and replacement of classes without modifying existing code.
+
+```cs
+using Files.App.ViewModels.Widgets;
+using Microsoft.UI.Xaml;
+using System.Windows.Input;
 
 #import "GCMMultiplayer.h"
 #import "GameCenterManager.h"
@@ -361,3 +364,4 @@ While the Singleton is not directly related to other SOLID principles, its use c
 }
 
 @end
+```
