@@ -1,21 +1,21 @@
-# _**Requirements**_
+# _**Evoulution of Requirements**_
 
 <hr>
 
-## _**Functional requirements**_
+## Why did they change?
 
- **Design pattern in software:** The software must implement a specific set of design patterns, including but not limited to, Singleton, Factory Method, Observer, Strategy, Proxy, Memento, Command, Mock Object, Repository ( or DAO), among others, as appropriate.
+In this second submission, we have a clearer understanding of the destiny of our project. Due to the choice to publish all the information collected in a repository, the requirements had modifications. At this time, only a single functional requirement is stated, which involves the presentation of examples implementing Astro. The other requirements are linked to the content of the repository and, consequently, have been transformed into non-functional requirements.
 
+## Functionals
+ **Design pattern in software:** Our repository will contain and display coherent and appropriate information on software design patterns, and their application examples in real systems.
+
+## No functionals
  **Implementation Examples:** In each design pattern example, the software code must be shown with specific examples (observations and comments) that show the application of said pattern in situations relevant to the project.
 
 **Interaction between Patterns:** If possible, it should be demonstrated how the different design patterns interact with each other in the software to achieve a coherent and efficient design.
 
  **Detailed Documentation:** Each design pattern shown must be accompanied by detailed technical documentation that explains its use, advantages, disadvantages and how it is integrated into the overall project.
 
-**Compliance with Coding Standards:** The code that implements the design patterns must follow the coding standards (ours) defined for the acceptance of the project code.
+ For this second delivery it was decided to eliminate several requirements, the non-functional ones were more affected, related to the availability and usability of the system, they did not make sense in the current context of our project, since a repository will be used for the publication of our examples of code.
 
-## _**Non-functional requirements**_
 
-**Usability:** The system must work on different platforms
-
-**Availability:** The software must be available 24 hours a day, 7 days a week.
