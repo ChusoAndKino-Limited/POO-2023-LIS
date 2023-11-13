@@ -1,3 +1,9 @@
+---
+layout: '../../layouts/Layout.astro'
+pattern: 'iterator'
+---
+
+
 # Factory Method
 ---
 Also known as Virtual Constructor, The *Factory Method* pattern is a [creational design pattern](https://www.javatpoint.com/creational-design-patterns) used to create objects without specifying the concrete class of object to be created. Instead of instantiating objects directly with the new operator, a method (the *"Factory Method"*) is defined in an interface or base class that subclasses must implement. Each subclass can provide its own implementation of the *Factory Method* to create concrete objects.
