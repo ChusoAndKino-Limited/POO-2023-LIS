@@ -6,6 +6,8 @@
 
 Object-Oriented Programming Project - [Go to Design Pattern Earth site! (Click here)](https://majestic-chaja-a166a7.netlify.app/)
 
+[Second Submission video](https://app.animaker.com/animo/nYfHRXoUt3uCnTd7/)
+
 ### Resume
 
 At the beginning, in the second installment, we had outlined a very cautious path of what the development of the product would be like, including defining what the product we would be developing would be, whether it were a web, app, or something else, however after the mentoring with the professor, it was noted that the important thing about the project was the examples of the design patterns, and not so much the implementation, of course the implementation is essential for the presentation of the video, so it should be something quick, in In that sense, after investigating methods and technologies, it was concluded that the Astro framework would be ideal for this task, since Astro could render markdown files as HTML content, which makes the process of creating the examples much easier.
@@ -55,7 +57,7 @@ We forgot to create a CRUD, since the examples themselves would reside in the Gi
 
 For this second delivery it was decided to eliminate several requirements, the non-functional ones were more affected, related to the availability and usability of the system, they did not make sense in the current context of our project, since a repository will be used for the publication of our examples of code.
 
-[Second Submission video](https://app.animaker.com/animo/nYfHRXoUt3uCnTd7/)
+
 
 ## Members
 
