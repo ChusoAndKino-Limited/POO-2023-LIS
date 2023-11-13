@@ -179,5 +179,50 @@ export class Subscriber<T> extends Subscription implements Observer<T> {
     }
   }
 
+
+```
+
+## Class Diagram of the exaple
+
+```mermaid
+
+classDiagram
+
+class Subscribable{
+  <<interface>>
+  subscribe(Partial<Observer<T>> observer) Unsubscribable 
+}
+
+class Observable{
+  subscribe(observerOrNext) Subscription
+}
+
+
+class Observer{
+  <<interface>>
+  next: (value: T) => void
+  error: (err: any) => void
+  complete: () => void
+
+}
+
+class Subscriber
+
+ Observer <|-- Subscriber 
+ Subscribable <|-- Observable
+
+ Observer <-- Subscribable 
+
+ Subscriber --> Observable 
+
+ 
+
+
+ 
+
+
+
+
+
 ```
 
