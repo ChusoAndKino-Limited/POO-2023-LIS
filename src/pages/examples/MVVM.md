@@ -1,3 +1,8 @@
+---
+layout: '../../layouts/Layout.astro'
+pattern: 'iterator'
+---
+
 ## MVVM PATTERN EXAMPLE 
 
 The Model-View-ViewModel (MVVM) architecture pattern, also known as Model View ViewModel, refers to a design model aimed at separating the user interface (View) from the logic (Model). Its objective is to make the visual aspect completely independent.
