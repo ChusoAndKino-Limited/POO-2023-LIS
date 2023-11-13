@@ -3,6 +3,8 @@ Object-Oriented Programming Project
 
 [Go to Design Pattern Earth site!](https://majestic-chaja-a166a7.netlify.app/)
 
+[Second Submission video](https://app.animaker.com/animo/nYfHRXoUt3uCnTd7/)
+
 ## Members
 
 ### GitHub contact
