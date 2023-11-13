@@ -4,6 +4,9 @@ Also known as Single Instance, the Singleton pattern is a creational design patt
 The Singleton is used when you want to ensure that a class has only one instance, and you need to provide a global access point to this instance. This promotes the “Open/Closed” principle, which states that classes should be open for extension but closed for modification. In other words, you can add new methods or properties to the class without having to modify the code that uses the Singleton Method.
 
 #Structure
+<div align="center">
+<img src="https://refactoring.guru/images/patterns/diagrams/singleton/structure-en.png?id=4e4306d3a90f40d74c7a4d2d2506b8ec" alt="STRUCTURE">
+</div>
 classDiagram
   class Singleton {
     -static uniqueInstance: Singleton
