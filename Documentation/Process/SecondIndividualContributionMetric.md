@@ -9,7 +9,7 @@
 | 1         | Process abstraction update                         |         | x      |
 | 1         | Process management                                 |         |        |           |     | x     |
 | 1         | Individual contribution metric                     |         |        |           |     | x     |
-| 2         | Organization and documentation of the repository   | x       |
+| 1         | Organization and documentation of the repository   | x       |
 | 1         | Video visual aids                                  |         |        | x         |
 | 2         | Video editing                                      | x       |
 | 1         | Generic skills                                     |         |        |           | x   |
