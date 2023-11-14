@@ -8,13 +8,19 @@ Object-Oriented Programming Project - [Go to Design Pattern Earth site! (Click h
 
 [Second Submission video](https://app.animaker.com/animo/nYfHRXoUt3uCnTd7/)
 
-### Resume
+### Product
+
+#### Resume
+
+<details>
+
+<summary><small>click to expand</small></summary>
 
 At the beginning, in the second installment, we had outlined a very cautious path of what the development of the product would be like, including defining what the product we would be developing would be, whether it were a web, app, or something else, however after the mentoring with the professor, it was noted that the important thing about the project was the examples of the design patterns, and not so much the implementation, of course the implementation is essential for the presentation of the video, so it should be something quick, in In that sense, after investigating methods and technologies, it was concluded that the Astro framework would be ideal for this task, since Astro could render markdown files as HTML content, which makes the process of creating the examples much easier.
 
 We forgot to create a CRUD, since the examples themselves would reside in the Github repository, opening the door for anyone to contribute either with feedback, or even add an example to the catalog.
 
-### Product
+</details>
 
 - [Product description](Documentation/Product/Product_description.md)
 - [Value proposition](Documentation/Product/Value_Proposition.md)
@@ -26,8 +32,9 @@ We forgot to create a CRUD, since the examples themselves would reside in the Gi
 - Artifacts
   - [Use cases diagram](Documentation/Design/Use_Cases_Diagram.png)
   - [User stories](Documentation/Design/User_stories.md)
-  - [Class diagram](Documentation/Design/classDiagram.md)
-  - [Abstraction process](Documentation/Design/classes.md)
+  <!-- - [Class diagram](Documentation/Design/classDiagram.md)
+  - [Abstraction process](Documentation/Design/classes.md)  -->
+  <!-- Class diagram are not necessary for this proyect -->
 
 ### Process
 
@@ -35,11 +42,13 @@ We forgot to create a CRUD, since the examples themselves would reside in the Gi
 - [Process management](Documentation/Process/Process_Management.md)
 - [Individual Contribution Metric](Documentation/Process/SecondIndividualContributionMetric.md)
 
-### Preview Presentation
+<!-- ### Preview Presentation
 
 - [Video](https://youtu.be/1Cm66H1yLIY)
 - [Slides](Documentation/Process/Slides.pdf)
-- [Competencies](Documentation/Competencies/Competencies.md)
+- [Competencies](Documentation/Competencies/Competencies.md) -->
+
+<!-- This is about first submission -->
 
 ## Requirements
 
@@ -58,21 +67,26 @@ We forgot to create a CRUD, since the examples themselves would reside in the Gi
 For this second delivery it was decided to eliminate several requirements, the non-functional ones were more affected, related to the availability and usability of the system, they did not make sense in the current context of our project, since a repository will be used for the publication of our examples of code.
 
 
-
 ## Members
 
-### GitHub contact
+- **Orlando Isaías Rodríguez Couoh** - Product Owner [[Github]](https://https://github.com/IsaiasRdzc) [[LinkedIn]](www.linkedin.com/in/isaiasrdzc)
 
-- [**Orlando Isaías Rodríguez Couoh** - Product owner](https://github.com/IsaiasRdzc)
-- [**Rodrigo Joaquín Pacab Canul** - Scrum master](https://github.com/iKinoo)
-- [**Marco Santiago Canché May** - Scrum master/product owner](https://github.com/MarcoSIIIU)
-- [**José Luis Gutiérrez Couoh** - Developer](https://github.com/Josegutierrezcouoh)
-- [**Carlos Israel Ruz Ruz** - Developer](https://github.com/XxCharlyRuzxX)
 
-### LinkedIn contact
+- **Rodrigo Joaquín Pacab Canul** - Scrum master
+  [[Github]](https://github.com/iKinoo)
+  [[LinkedIn]]((https://www.linkedin.com/in/rodrigo-pacab/))
 
-- [**Orlando Isaías Rodríguez Couoh**](www.linkedin.com/in/isaiasrdzc)
-- [**Rodrigo Joaquín Pacab Canul**](https://www.linkedin.com/in/rodrigo-pacab/)
-- [**Marco Santiago Canché May**](https://www.linkedin.com/in/marcocanchemscm/)
-- [**José Luis Gutiérrez Couoh**](https://www.linkedin.com/in/josé-gutiérrez-96a3bb28b/)
-- [**Carlos Israel Ruz Ruz**](https://www.linkedin.com/in/carlos-israel-ruz-ruz-55092028a/)
+
+
+- **Marco Santiago Canché May** - Scrum Master / Product Owner 
+  [[Github]](https://github.com/MarcoSIIIU)
+  [[LinkedIn]]((https://www.linkedin.com/in/marcocanchemscm/))
+
+
+- **José Luis Gutiérrez Couoh** - Developer
+[[Github]](https://github.com/Josegutierrezcouoh)
+[[LinkedIn]](https://www.linkedin.com/in/josé-gutiérrez-96a3bb28b/)
+
+- **Carlos Israel Ruz Ruz** - Developer
+  [[Github]](https://github.com/XxCharlyRuzxX)
+  [[LinkedIn]](https://www.linkedin.com/in/carlos-israel-ruz-ruz-55092028a/)
