@@ -1,6 +1,8 @@
 ---
-layout: '../../layouts/Layout.astro'
-pattern: 'observer'
+title: 'Observer: RxJS'
+description: 'RxJS library in Angular framework'
+pubDate: 'September 17 2023'
+heroImage: '/blog-placeholder-5.jpg'
 ---
 
 # Observer Example: RxJS library in Angular framework
