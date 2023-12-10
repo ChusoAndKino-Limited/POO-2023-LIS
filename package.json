@@ -11,11 +11,14 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@astrojs/check": "^0.2.1",
+    "@astrojs/check": "^0.3.1",
+    "@astrojs/mdx": "^2.0.0",
+    "@astrojs/rss": "^4.0.1",
+    "@astrojs/sitemap": "^3.0.3",
+    "astro": "^4.0.3",
+    "typescript": "^5.3.3",
     "@commitlint/cli": "^18.4.1",
-    "@commitlint/config-conventional": "^18.4.0",
-    "astro": "^3.3.4",
-    "typescript": "^5.2.2"
+    "@commitlint/config-conventional": "^18.4.0"
   },
   "devDependencies": {
     "husky": "^8.0.3"

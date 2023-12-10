@@ -1,5 +1,8 @@
-# Sidecar Pattern
-
+---
+title: 'Side Card Pattern: Kubernetes'
+description: 'Sidecar pattern is a design pattern in which a main application (or "_loader_") is paired with another smaller, specific-purpose application, called a "_Sidecar_". The Sidecar extends and enhances the capabilities of the main application without affecting its core logic. This modular approach allows you to add functionality without directly modifying the source code of the main application.'
+pubDate: 'Dec 12 2023'
+heroImage: '/blog-placeholder-4.jpg'
 ---
 
 The Sidecar pattern is a design pattern in which a main application (or "_loader_") is paired with another smaller, specific-purpose application, called a "_Sidecar_". The Sidecar extends and enhances the capabilities of the main application without affecting its core logic. This modular approach allows you to add functionality without directly modifying the source code of the main application.
