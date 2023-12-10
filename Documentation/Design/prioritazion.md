@@ -1,28 +1,28 @@
-# _**Prioritazion of requirements**_
+# _**Evolution of prioritazion of requirements**_
 
-<hr>
+---
 
-## _**Functional requirements**_
+### Functional Requirements:
+
+1. **Design Pattern Information:**
+   - **Explanation:** This is prioritized as a must-have functional requirement since the repository's primary purpose is to provide comprehensive and relevant information on various software design patterns.
+   - **Reasoning:** Understanding design patterns is fundamental to the project's goals, ensuring a solid foundation for users to grasp and apply these concepts.
+
+### Non-Functional Requirements:
+
+2. **Implementation Examples:**
+   - **Explanation:** Given its direct impact on showcasing practical applications, this is considered a high-priority non-functional requirement.
+   - **Reasoning:** The inclusion of specific examples with code, observations, and comments enhances the educational value of the repository, making it more practical and applicable for users.
+
+3. **Detailed Documentation:**
+   - **Explanation:** This requirement is crucial for providing in-depth understanding and context for each design pattern.
+   - **Reasoning:** Comprehensive documentation is key to delivering value to users by explaining the usage, advantages, disadvantages, and integration aspects of each design pattern.
+
+4. **Interaction between Patterns:**
+   - **Explanation:** While desirable, this requirement is considered slightly lower in priority compared to others.
+   - **Reasoning:** While showcasing interactions between design patterns is beneficial, it may be dependent on the complexity of patterns chosen. Therefore, it's important but not critical for the initial release.
 
 
-1. **Implementation Examples:** In each design pattern example, the software code must be shown with specific examples (observations and comments) that show the application of said pattern in situations relevant to the project.
-
-2. **Compliance with Coding Standards:** The code that implements the design patterns must follow the coding standards (ours) defined for the acceptance of the project code.
-
-3. **Interaction between Patterns:** If possible, it should be demonstrated how the different design patterns interact with each other in the software to achieve a coherent and efficient design.
-
-
-4. **Detailed Documentation:** Each design pattern shown must be accompanied by detailed technical documentation that explains its use, advantages, disadvantages and how it is integrated into the overall project.
-
-5. **Design pattern in software:** The software must implement a specific set of design patterns, including but not limited to, Singleton, Factory Method, Observer, Strategy, Proxy, Memento, Command, Mock Object, Repository ( or DAO), among others, as appropriate.
 
 
 
-
-5. **Compliance with Coding Standards:** The code that implements the design patterns must follow the coding standards (ours) defined for the acceptance of the project code.
-
-## _**Non-functional requirements**_
-
-1. **Usability:** The system must work on different platforms
-
-2. **Availability:** The software must be available 24 hours a day, 7 days a week.

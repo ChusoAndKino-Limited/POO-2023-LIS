@@ -1,6 +1,8 @@
 ---
-layout: '../../layouts/Layout.astro'
-pattern: 'iterator'
+title: 'Factoy Method: TensorFlow'
+description: 'TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML-powered applications.'
+pubDate: 'Dec 10 2023'
+heroImage: '/blog-placeholder-2.jpg'
 ---
 
 
