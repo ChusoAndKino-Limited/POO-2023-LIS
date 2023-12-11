@@ -1,0 +1,5 @@
+# Course review
+
+As a team, we have very positive impressions of the course, as we experienced a significant shift in our expectations. Initially, we thought that object-oriented programming was limited to writing lines of code; however, we have discovered that we have learned a great deal through the research and understanding of concepts related to object-oriented programming and software design. This approach differs significantly from simply spending hours coding without understanding why a specific approach is followed.
+
+The conclusions we draw from the course are clear: we are not here solely to learn how to code, but to develop the abstraction skills necessary in relation to object-oriented programming. This skill allows us to apply the basic principles of OOP in any other language, even without delving deeply into its study. Understanding this paradigm is an immensely valuable tool for us, software engineers.
