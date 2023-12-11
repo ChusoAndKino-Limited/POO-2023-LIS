@@ -50,3 +50,14 @@ As a user interested in a comprehensive understanding, I want detailed technical
 1. Technical documentation should be available for each design pattern.
 2. The documentation should cover the pattern's use and application.
 3. Explain how each design pattern fits into the broader project architecture.
+----
+
+### User Story 5:
+**Title:** Gain Insight into Design Pattern Implementations
+
+**Description:**
+As a user exploring design patterns within the repository, I want to access basic information on the technologies employed in the implementation examples of each pattern. This information should be presented in a manner that enhances my understanding of how each pattern interacts with its system environment.
+
+**Acceptance Criteria:**
+1. Each design pattern's implementation details should include basic information on the technologies utilized.
+2. The provided information should contribute to a clearer understanding of how each pattern interacts with its respective system environment.

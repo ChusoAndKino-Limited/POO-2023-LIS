@@ -1,0 +1,8 @@
+# Product Evolution
+At the beginning of the semester, we had a rather vague idea about the project's approach. We lacked a solid understanding of design patterns and were starting from scratch. Initially, our sole objective was to collect examples of real systems implementing design patterns to comprehend their functionality. The platform for publishing our results was not clear initially.
+
+During meetings with the professor, emphasis was placed on the idea that the "how" of presenting information was not the most crucial aspect; rather, it was the "what." Consequently, we focused on searching for examples of systems from various sources. In this process, we found valuable assistance in open-source projects, which allowed us to access their source code and analyze the implementation of design patterns.
+
+For the sake of expediency in content publication, we decided to use GitHub, a platform with which we were familiar and frequently utilized. Moreover, GitHub provided us with greater control over the content we wished to publish. We also chose to implement the "Astro" framework, enhancing the presentation of content within the repository.
+
+In conclusion, we achieved the project's objective, which was to develop a system encompassing different types of design patterns, each with a real-world example of its application and associated basic information. Should anyone wish to collaborate on a specific design pattern example, they can easily and accessibly become part of the project.

@@ -2,9 +2,10 @@
 
 <hr>
 
-## Why did they change?
+## How did they change?
 
-In this second submission, we have a clearer understanding of the destiny of our project. Due to the choice to publish all the information collected in a repository, the requirements had modifications. At this time, only a single functional requirement is stated, which involves the presentation of examples implementing Astro. The other requirements are linked to the content of the repository and, consequently, have been transformed into non-functional requirements.
+In this latest delivery, the requirements underwent no major changes; the ones presented in the second delivery were maintained, along with the addition of a new requirement aimed at providing a general understanding of each example. This involves incorporating basic information to grasp the context of the application of each pattern.
+
 
 ## Functionals
  **Design pattern in software:** Our repository will contain and display coherent and appropriate information on software design patterns, and their application examples in real systems.
@@ -16,6 +17,7 @@ In this second submission, we have a clearer understanding of the destiny of our
 
  **Detailed Documentation:** Each design pattern shown must be accompanied by detailed technical documentation that explains its use, advantages, disadvantages and how it is integrated into the overall project.
 
- For this second delivery it was decided to eliminate several requirements, the non-functional ones were more affected, related to the availability and usability of the system, they did not make sense in the current context of our project, since a repository will be used for the publication of our examples of code.
+ **Basic information:** Basic information is provided on the technologies used in the implementation examples of each pattern, aiming to enhance understanding of how each pattern interacts with its system environment.
+
 
 
