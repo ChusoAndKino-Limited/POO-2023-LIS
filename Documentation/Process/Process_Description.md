@@ -46,3 +46,16 @@ Finally we had to create the video and the slides, which were done in the last w
 
 </details>
 
+## Third Submission
+
+<details>
+
+<summary><small> click to expand </small></summary>
+
+Overall, throughout the three submissions, the process has been peculiar. Even halfway through the semester, we lacked clarity about the nature of the project as a whole, or rather, the execution of the project idea wasn't precisely defined. Despite being design pattern examples, would it simply be a repository? We merely provided a link to a Google Drive folder and that was it. Mentorship sessions helped clarify our ideas somewhat; the key advice was to focus more on example quality and seek a swift implementation. This led to investigating the use of Astro and publishing with markdown files. Essentially, our project took the form of a blog, something that didn't particularly excite the team, but it was what we had, and it needed to be done well.
+
+This submission focuses on technically enhancing the documentation, paying attention to the instructional aspect: explaining the components comprising the system in question and offering a brief tutorial on its usage. Furthermore, the presentation of examples was improved by changing the default template of Astro's static web pages to that of a blog, providing an aesthetically pleasing and professional look. This also allowed potential scalability to more diverse topics through Astro's collections.
+
+Regarding organization, the same format was maintained throughout the three submissions. However, there was a clear lack of discipline and follow-through on many of the planned sprints, as well as other tasks that could have automated processes, such as the contribution metric, which remained in the 'Icebox' and couldn't be implemented due to time constraints
+
+</details>
